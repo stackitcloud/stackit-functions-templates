@@ -11,6 +11,7 @@ This repository provides a collection of language-specific templates to help you
 *   [`rs-template`](rs-template/README.md): Rust language template.
 *   [`spring-template`](spring-template/README.md): Spring Boot (Java) framework template.
 *   [`ts-template`](ts-template/README.md): TypeScript language template.
+*   [`kotlin`](kotlin-template/README.md): Kotlin(Ktor) language template.
 
 ## Getting Started
 

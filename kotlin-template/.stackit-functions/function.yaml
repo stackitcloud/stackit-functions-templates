@@ -1,0 +1,8 @@
+apiVersion: functions.stackit.cloud/v1alpha
+kind: Function
+metadata:
+  name: kotlin
+  created: 2026-10-07T15:04:57.813258Z
+  annotations:
+    cli.functions.stackit.cloud/trigger: http
+spec: {}
