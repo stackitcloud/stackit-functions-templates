@@ -1,0 +1,10 @@
+apiVersion: functions.stackit.cloud/v1alpha
+kind: Revision
+metadata:
+  created: 2026-01-01T00:00:00Z
+  annotations:
+    cli.functions.stackit.cloud/runtime: kotlin
+spec:
+  limits:
+    plan: f2
+    concurrency: 100
