@@ -1,0 +1,8 @@
+function:
+  name: kotlin-template
+  runtime: kotlin
+  trigger: http
+  created: 2026-01-01T00:00:00.000000+01:00
+  limits:
+    plan: f3
+    concurrency: 20
